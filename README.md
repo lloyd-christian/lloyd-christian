@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi there! I'm
+![Profile-banner](Assets/profile-banner.gif)
 
-<!--
-**lloyd-christian/lloyd-christian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👤 About Me
+* Currently a 1st Year BSIT Student.
+* Been in GitHub since Feburary 3rd, 2026.
+* Fun Fact 1: I get obssessed with web designs but why I learned Java first? well, that's the requirement for two of my majors.
+* Fun Fact 2: I use GitHub to store my projects in case I might break something. Though they are private.
 
-Here are some ideas to get you started:
+## 🔨 Languages and Tools:
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+And now you know me! 
